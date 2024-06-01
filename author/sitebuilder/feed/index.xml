@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sitebuilder &#8211; eezyDesign</title>
+	<atom:link href="/author/sitebuilder/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 29 Aug 2020 12:40:31 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+		
+		<dc:creator><![CDATA[sitebuilder]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2015 08:09:32 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">http://www.eezydesign.co.uk/?p=1</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem fringilla ut morbi tincidunt augue interdum velit. Enim facilisis gravida neque convallis a. Sit amet massa vitae tortor condimentum. Vel orci porta non pulvinar neque laoreet suspendisse. Pharetra pharetra massa massa ultricies mi. Ipsum nunc [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem fringilla ut morbi tincidunt augue interdum velit. Enim facilisis gravida neque convallis a. Sit amet massa vitae tortor condimentum. Vel orci porta non pulvinar neque laoreet suspendisse. Pharetra pharetra massa massa ultricies mi. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Ac tortor dignissim convallis aenean. Velit euismod in pellentesque massa. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Turpis egestas maecenas pharetra convallis posuere morbi. Nisl nunc mi ipsum faucibus vitae.</p>
+<p>[mks_pullquote align=&#8221;right&#8221; width=&#8221;300&#8243; size=&#8221;24&#8243; bg_color=&#8221;#000000&#8243; txt_color=&#8221;#ffffff&#8221;]He who dares wins![/mks_pullquote]</p>
+<p>Id diam maecenas ultricies mi eget mauris pharetra. Sagittis id consectetur purus ut. Tristique senectus et netus et malesuada fames. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. &nbsp;[pullquote]Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. [/pullquote]Eget sit amet tellus cras adipiscing. Eget velit aliquet sagittis id consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada. Arcu vitae elementum curabitur vitae nunc sed velit dignissim. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Interdum velit laoreet id donec ultrices tincidunt arcu. Id donec ultrices tincidunt arcu non sodales neque sodales ut. Arcu odio ut sem nulla pharetra diam sit. Justo nec ultrices dui sapien. Iaculis eu non diam phasellus vestibulum lorem sed risus.</p>
+<p></p>
+<p></p>
+<p>[pullquote class=”right”]TEXT HERE[/pullquote]</p>
+<p>Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Viverra orci sagittis eu volutpat. Ante in nibh mauris cursus. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. Elementum nisi quis eleifend quam. Nulla aliquet porttitor lacus luctus accumsan. Aliquam eleifend mi in nulla posuere sollicitudin. Amet commodo nulla facilisi nullam. Congue quisque egestas diam in arcu cursus euismod. Dictumst quisque sagittis purus sit amet. Et odio pellentesque diam volutpat commodo sed. Commodo odio aenean sed adipiscing diam donec adipiscing tristique. Scelerisque felis imperdiet proin fermentum. Vitae auctor eu augue ut lectus arcu bibendum at varius. Adipiscing tristique risus nec feugiat in fermentum posuere urna. Lacus viverra vitae congue eu consequat ac felis donec et. Ut placerat orci nulla pellentesque dignissim.</p>
+<p>Et pharetra pharetra massa massa ultricies mi. Quis lectus nulla at volutpat diam ut venenatis tellus. Nunc consequat interdum varius sit amet mattis. At risus viverra adipiscing at in tellus integer. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Fermentum posuere urna nec tincidunt praesent semper feugiat. Nam at lectus urna duis convallis. Quis ipsum suspendisse ultrices gravida dictum. Sit amet consectetur adipiscing elit pellentesque habitant morbi. Vel turpis nunc eget lorem dolor. Nulla malesuada pellentesque elit eget gravida cum. Lorem ipsum dolor sit amet. Nisi est sit amet facilisis magna etiam.</p>
+<p>Eget nunc lobortis mattis aliquam. Diam sollicitudin tempor id eu. Faucibus a pellentesque sit amet porttitor eget. Nullam non nisi est sit amet facilisis. Vel risus commodo viverra maecenas accumsan lacus vel. Arcu non odio euismod lacinia at quis. Ultricies mi quis hendrerit dolor magna. Tortor posuere ac ut consequat semper. Pellentesque habitant morbi tristique senectus. Sed libero enim sed faucibus turpis. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
