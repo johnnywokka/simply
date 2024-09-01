@@ -55,6 +55,13 @@ if (null !== form_config_element) {
         };
 
         xhr.send(data);
+
+        // Forward to thank you after a set time if no response.
+        if( redirect_url) {
+            setTimeout(() => {
+                success(el, redirect_url);
+            }, 2500);
+        }
     }
 
     function modifyFormAttributes(form) {
@@ -110,6 +117,3 @@ if (null !== form_config_element) {
         });
     });
 }
-
-
-
